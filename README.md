@@ -1,5 +1,5 @@
-<h1 align="center"> Emmanuel Olimi AWS, Frontend, Cloud Engineer, Data Science, Brand strategies.</h1>
-<h3 align="center">Cloud engineer. Brand Strategist.</h3>
+<h1 align="center"> Emmanuel Olimi </h1>
+<h3 align="center"> AWS,Frontend, DevOps, Brand strategy.</h3>
 
 - 🌱 I’m currently learning **How to make the worlds of Cognitive Neuroscience and code meet, so to speak**
 
