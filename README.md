@@ -5,7 +5,7 @@
 
 <h3 align="left">   👨‍💻  I work with:</h3>
 -Amazon Web Services -AWS- 
-DynamoDB, Mongo, Postgre, MySQL, SQL, Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS.  <br> Java. <br> Python. <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
+DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   Java. <br> Python. <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
 <p>
 
 <h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GNU.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br> JIRA.
