@@ -3,10 +3,10 @@
 
 - 🌱 I work with **
 Amazon Web Services -AWS- 
-DynamoDB, Mongo, Postgre, MySQL, SQL, Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. Java. Python. HTML. CSS.  Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom)
+DynamoDB, Mongo, Postgre, MySQL, SQL, Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. Java. Python. HTML. CSS.  Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom)**
 **
 
-- 👨‍💻 Other. Figma. QuickBooks. Inkscape. GNU. Logic Pro. FruityLoops. Audacity. Libre. JIRA. Trello.
+- 👨‍💻 Other. **Figma. QuickBooks. Inkscape. GNU. Logic Pro. FruityLoops. Audacity. Libre. JIRA. Trello.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olimiemma" height="30" width="40" /></a>
