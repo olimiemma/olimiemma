@@ -9,7 +9,7 @@ DynamoDB, Mongo, Postgre, MySQL, SQL, Cloudfront, Lambda, SQS, Kinesis, EKS, RDS
 <h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GNU.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br> JIRA.
 <p>
   
- 🙂 In my free time, lets chat about sci-fi moves and animations, psychology, philosophy.
+ 🙂 In my free time, lets chat about sci-fi movies and animations, psychology, philosophy.
   
 
 <h3 align="left">Connect with me:</h3>
