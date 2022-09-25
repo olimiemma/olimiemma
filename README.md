@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel Olimi </h1>
-<h3 align="center"> AWS,Frontend, DevOps, Brand strategy.</h3>
+<h3 align="center"> AWS. Java.Python. UX UI. Brand Strategy.</h3>
 
 <h3 align="left">   👨‍💻  I work with:</h3>
 -Amazon Web Services -AWS- 
