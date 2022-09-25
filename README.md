@@ -1,12 +1,16 @@
 <h1 align="center"> Emmanuel Olimi </h1>
 <h3 align="center"> AWS,Frontend, DevOps, Brand strategy.</h3>
 
-<h3 align="left">  - 🌱 I work with:</h3>
+<h3 align="left">   👨‍💻  I work with:</h3>
 -Amazon Web Services -AWS- 
 DynamoDB, Mongo, Postgre, MySQL, SQL, Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS.  <br> Java. <br> Python. <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
 <p>
 
-- 👨‍💻 Other. **Figma. QuickBooks. Inkscape. GNU. Logic Pro. FruityLoops. Audacity. Libre. JIRA. Trello.
+<h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GNU.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br> JIRA.
+<p>
+  
+ 🙂 In my free time, lets chat about sci-fi moves and animations, psychology, philosophy.
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
