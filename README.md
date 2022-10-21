@@ -4,14 +4,14 @@
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
--AWS-,  Python
-DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   Java. <br>. <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
+-AWS-,  Python,  Java,
+DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   <br> R <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
 <p>
 
 <h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GNU.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br> JIRA.
 <p>
   
- 🙂 In my free time, lets chat about sci-fi movies and animations, psychology, philosophy.
+ 🙂 In my free time, lets talk sci-fi, space, psychology, philosophy.
   
 
 <h3 align="left">Connect with me:</h3>
