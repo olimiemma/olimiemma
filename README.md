@@ -1,10 +1,10 @@
 <h1 align="center"> Emmanuel K Olimi </h1>
-<h3 align="center"> AWS. Java.Python. UX UI. Brand Strategy.</h3>
+<h3 align="center"> Python. UX UI. Data science. Business Intelligence(BI), AWS.</h3>
 
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
--AWS-,  Python,  Java,
+Python,  AWS-,
 DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   <br> R <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
 <p>
 
