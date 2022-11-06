@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel K Olimi </h1>
-<h3 align="center"> Python. UX UI. Data science. Business Intelligence(BI), AWS.</h3>
+<h3 align="center"> Python. UX UI. Data science, AWS.</h3>
 
 👋 Hi!, I’m Emmanuel Olimi.
 
@@ -8,7 +8,7 @@ Python,  AWS-,
 DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   <br> R <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
 <p>
 
-<h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GNU.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br> JIRA.
+<h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br>.
 <p>
   
  🙂 In my free time, lets talk sci-fi, space, psychology, philosophy.
