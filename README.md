@@ -4,7 +4,7 @@
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Python, primarly
+Python, primarily
 
 <h3 align="left"> 📈 Others. </h3>
 Others: Managerial, Leadership, Business Intelligence skills.
