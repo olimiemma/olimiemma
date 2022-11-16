@@ -14,7 +14,7 @@ Platforms: Linux Mint: Cinnamon, MacOS.
 Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, VS code,  IntelliJ, Windows.. <br>web development.<br>.
 <p>
   
- 🙂 In my free time:, andom weird science, psychology, philosophy and music.
+ 🙂 In my free time:, random weird science, psychology, philosophy and music.
   
 
 <h3 align="left">Connect with me:</h3>
