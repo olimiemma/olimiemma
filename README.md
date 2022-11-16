@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel K Olimi </h1>
-<h3 align="center"> Python. UX UI. Data science, AWS.</h3>
+<h3 align="center"> Python. UX UI. Data science.</h3>
 
 👋 Hi!, I’m Emmanuel Olimi.
 
@@ -11,7 +11,7 @@ Others: Managerial, Leadership, Business Intelligence skills.
 
 Tools: Spyder, Adobe CC,
 Platforms: Linux Mint: Cinnamon, MacOS.
-Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, Windows.. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br>.
+Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, Windows.. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br>.
 <p>
   
  🙂 In my free time:, andom weird science, psychology, philosophy and music.
