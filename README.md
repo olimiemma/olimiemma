@@ -4,14 +4,17 @@
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Python,  AWS-,
-DynamoDB, Mongo, Postgre, MySQL, SQL, <br>  Cloudfront, Lambda, SQS, Kinesis, EKS, RDS, ECS. <br>   <br> R <br> HTML. <br> CSS.  <br> Adobe CC(XD, illustrator, photoshop, Indesign, Audition, DreamWeaver, Lightroom):
-<p>
+Python, 
 
-<h3 align="left"> 📈 Others. </h3> Figma. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br>.
+<h3 align="left"> 📈 Others. </h3> Programming Languages: Python.
+Others: Managerial, Leadership, Business Intelligence skills.
+
+Tools: Spyder, Adobe CC,
+Platforms: Linux Mint: Cinnamon, MacOS.
+Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, Windows.. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>Trello.<br>.
 <p>
   
- 🙂 In my free time, lets talk sci-fi, space, psychology, philosophy.
+ 🙂 In my free time:, andom weird science, psychology, philosophy and music.
   
 
 <h3 align="left">Connect with me:</h3>
