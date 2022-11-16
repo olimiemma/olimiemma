@@ -9,9 +9,9 @@ Python, primarily
 <h3 align="left"> 📈 Others. </h3>
 Others: Managerial, Leadership, Business Intelligence skills.
 
-.<br>.Tools: Spyder, Adobe CC..<br>.
-.<br>.Platforms: Linux Mint: Cinnamon, MacOS..<br>.
-Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, VS code,  IntelliJ, Windows.. <br>web development.<br>.
+<br>Tools: Spyder, Adobe CC.<br>
+<br>Platforms: Linux Mint Cinnamon, MacOS..<br>
+Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, VS code,  IntelliJ, Windows. <br>web development.<br>.
 <p>
   
  🙂 In my free time:, random weird science, psychology, philosophy and music.
