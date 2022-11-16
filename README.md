@@ -9,8 +9,8 @@ Python, primarily
 <h3 align="left"> 📈 Others. </h3>
 Others: Managerial, Leadership, Business Intelligence skills.
 
-Tools: Spyder, Adobe CC,
-Platforms: Linux Mint: Cinnamon, MacOS.
+.<br>.Tools: Spyder, Adobe CC..<br>.
+.<br>.Platforms: Linux Mint: Cinnamon, MacOS..<br>.
 Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, VS code,  IntelliJ, Windows.. <br>web development.<br>.
 <p>
   
