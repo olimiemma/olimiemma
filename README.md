@@ -4,14 +4,14 @@
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Python, 
+Python, primarly
 
 <h3 align="left"> 📈 Others. </h3>
 Others: Managerial, Leadership, Business Intelligence skills.
 
 Tools: Spyder, Adobe CC,
 Platforms: Linux Mint: Cinnamon, MacOS.
-Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, Windows.. <br> QuickBooks. <br> Inkscape. <br> GIMP.<br>  Logic Pro. <br> FruityLoops. <br> Audacity. <br> Libre.   <br>web development.<br>.
+Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity ,Kendline live, HandBrake, Libre & Only office, ThunderBird, HexChat, VS code,  IntelliJ, Windows.. <br>web development.<br>.
 <p>
   
  🙂 In my free time:, andom weird science, psychology, philosophy and music.
