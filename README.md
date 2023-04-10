@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel Kasigazi </h1>
-<h3 align="center"> Python. UX UI. Data science.</h3>
+<h3 align="center"> Python. Data science. AI </h3>
 
 👋 Hi!, I’m Emmanuel Olimi.
 
