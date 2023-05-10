@@ -11,7 +11,7 @@ Others: Managerial, Business Intelligence skills.
 
 <br>Tools: Anaconda.<br>
 <br>Platforms: Linux Mint, MacOS..<br>
-Others: Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, MoneyMouse, LogicPro tools, FruityLoops, Audacity, Libre & Only office, VS code,  IntelliJ, Windows.
+Others: VS code,  IntelliJ, Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, LogicPro tools, FruityLoops, Audacity, Libre & Only office, Windows.
 <p>
   
  🙂 In my free time:Lets talk Psychology, philosophy and music.
