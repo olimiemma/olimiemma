@@ -10,8 +10,9 @@ Python
 Others: Managerial, Business Intelligence skills.
 
 <br>Tools: Anaconda.<br>
-<br>Platforms: Linux Mint, MacOS..<br>
-Others: VS code,  IntelliJ, Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, LogicPro tools, FruityLoops, Audacity, Libre & Only office, Windows.
+
+ VS code,  IntelliJ, Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, LogicPro tools, FruityLoops, Audacity, Libre & Only office, Windows.
+ <br>Platforms: Linux Mint Mainly, MacOS..<br>
 <p>
   
  🙂 In my free time:Lets talk Psychology, philosophy and music.
