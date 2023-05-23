@@ -9,7 +9,7 @@ Python
 <h3 align="left"> 📈 Others. </h3>
 Others: Managerial, Business Intelligence skills.
 
-<br>Tools: Anaconda.<br>
+<br>Tools: Anaconda environment.<br>
 
  VS code,  IntelliJ, Trello, Quickbooks, InkScape, GIMP, Terminal CLI, AWS, LogicPro tools, FruityLoops, Audacity, Libre & Only office, Windows.
  <br>Platforms: Linux Mint Mainly, MacOS..<br>
