@@ -4,18 +4,18 @@
 👋 Hi!, I’m Emmanuel Olimi.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Python
+Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others: Managerial, Business Intelligence skills.
+Others: SQL, langChain, PySpark, DataBricks, Apache Spark. Prompt engineering.
 
-<br>Tools: Anaconda environment.<br>
+<br>Tools:Anaconda <br>
 
- VS code,  IntelliJ, Trello, Terminal CLI, AWS, LogicPro tools, FruityLoops.
- <br>Platforms: Linux Mint Mainly, MacOS, Windows<br>
+ VS code,  IntelliJ. ClickUp, Trello. Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition.
+ <br>Platforms: Linux Mint prefferably, MacOS, Windows<br>
 <p>
   
- 🙂 In my free time:Lets talk Psychology, philosophy and music.
+ In my free time:Lets talk Psychology,HBS, philosophy and music. 🙂
   
 
 <h3 align="left">Connect with me:</h3>
