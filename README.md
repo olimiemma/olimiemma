@@ -1,17 +1,17 @@
 <h1 align="center"> Emmanuel Kasigazi </h1>
 <h3 align="center"> Python. Data science. AI </h3>
 
-👋 Hi!, I’m Emmanuel Olimi.
+👋 Hi!, I’m Emmanuel O.K.
 
 <h3 align="left">   👨‍💻  I work with:</h3>
 Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others: SQL, langChain, PySpark, DataBricks, Apache Spark. Prompt engineering.
+Others: SQL, LangChain, PySpark, DataBricks, Apache Spark.
 
 <br>Tools:Anaconda <br>
 
- VS code,  IntelliJ. ClickUp, Trello. Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition.
+ VS code,  IntelliJ. ClickUp, Trello. Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition. Prompt engineering-Deeplearning
  <br>Platforms: Linux Mint prefferably, MacOS, Windows<br>
 <p>
   
