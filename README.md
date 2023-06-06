@@ -7,7 +7,7 @@
 Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others: SQL, LangChain, PySpark, DataBricks, Apache Spark.
+Others: SQL, PySpark, DataBricks, Apache Spark. LangChain.
 
 <br>Tools:Anaconda <br>
 
