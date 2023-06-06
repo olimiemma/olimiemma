@@ -11,7 +11,8 @@ Others: SQL, LangChain, PySpark, DataBricks, Apache Spark.
 
 <br>Tools:Anaconda <br>
 
- VS code,  IntelliJ. ClickUp, Trello. Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition. Prompt engineering-Deeplearning
+ VS code,  IntelliJ. ClickUp, Trello. Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition. Prompt engineering-Deeplearning.
+ 
  <br>Platforms: Linux Mint prefferably, MacOS, Windows<br>
 <p>
   
