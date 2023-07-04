@@ -7,11 +7,10 @@
 Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others: LangChain, Prompt engineering-Deeplearning-GPT. SQL, PySpark, DataBricks, Apache Spark. 
+Others: LangChain, Prompt engineering-Deeplearning-GPT. SQL, PySpark, DataBricks, Apache Spark.
 
-<br>Tools:Anaconda <br>
-
- VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe, photoshop, illustrator, InDesign, after effects, audition. Prompt engineering-Deeplearning.
+AWS, Azure. VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI.  LogicPro tools, FruityLoops. 
+<br> Adobe, photoshop, illustrator, InDesign, after effects, audition. Prompt engineering-Deeplearning.
  
  <br>Platforms: Linux Mint preferably, MacOS, Windows<br>
 <p>
