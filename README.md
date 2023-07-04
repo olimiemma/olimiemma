@@ -1,4 +1,4 @@
-<h1 align="center"> Emmanuel Kasigazi </h1>
+<h1 align="center"> Emmanuel Olimi K </h1>
 <h3 align="center"> Python. Cloud.  AI </h3>
 
 👋 Hi!, I’m Emmanuel O.K.
