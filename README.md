@@ -19,7 +19,8 @@ Others: LangChain, Prompt engineering-Deeplearning-GPT. SQL, PySpark, DataBricks
   
  In my free time: let's talk Psychology,HBS, philosophy, and music. 🙂
 
- <a https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos> more about me </a>
+<a href="https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos">more about me</a>
+
   
 
 <h3 align="left">Connect with me:</h3>
