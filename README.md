@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel Kasigazi </h1>
-<h3 align="center"> Python. AI </h3>
+<h3 align="center"> Python. Cloud.  AI </h3>
 
 👋 Hi!, I’m Emmanuel O.K.
 
