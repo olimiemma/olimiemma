@@ -11,12 +11,15 @@ Others: LangChain, Prompt engineering-Deeplearning-GPT. SQL, PySpark, DataBricks
 
 <br>Tools:Anaconda <br>
 
- VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe,photoshop,illustrator,indesign, after effects, audition. Prompt engineering-Deeplearning.
+ VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI. AWS, Azure. LogicPro tools, FruityLoops. Adobe, photoshop, illustrator, InDesign, after effects, audition. Prompt engineering-Deeplearning.
  
- <br>Platforms: Linux Mint prefferably, MacOS, Windows<br>
+ <br>Platforms: Linux Mint preferably, MacOS, Windows<br>
 <p>
+
   
- In my free time:Lets talk Psychology,HBS, philosophy and music. 🙂
+ In my free time: let's talk Psychology,HBS, philosophy, and music. 🙂
+
+ <a https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos/> more about me </a>
   
 
 <h3 align="left">Connect with me:</h3>
