@@ -1,5 +1,5 @@
 <h1 align="center"> Emmanuel Olimi K </h1>
-<h3 align="center"> Python. Cloud.  AI </h3>
+<h3 align="center">Cloud.  AI </h3>
 
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
@@ -7,7 +7,7 @@
 Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others: LangChain, Prompt engineering-Deeplearning-GPT. SQL, PySpark, DataBricks, Apache Spark.
+Others:  SQL, PySpark, Java, JSON, DataBricks, Apache Spark. LangChain, Prompt engineering(-Deeplearning-GPT.)
 
 AWS, Azure. VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI.  LogicPro tools, FruityLoops. 
 <br> Adobe, photoshop, illustrator, InDesign, after effects, audition.
