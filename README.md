@@ -9,7 +9,7 @@
 Majorly Python
 
 <h3 align="left"> 📈 Others. </h3>
-Others:  SQL, PySpark, Java, JSON, DataBricks, Apache Spark. LangChain, Prompt engineering(-Deeplearning-GPT.)
+Others:  SQL, LangChain, Llama, PySpark, Java, JSON, DataBricks, Apache Spark. Prompt engineering(-Deeplearning-GPT.)
 
 AWS, Azure. VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI.  LogicPro tools, FruityLoops. 
 <br> Adobe, photoshop, illustrator, InDesign, after effects, audition.
