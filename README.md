@@ -1,4 +1,4 @@
-<a href="https://olimi.wazigrouplimited.com"> ![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/67836186-af03-4ec1-b71d-9a66c155fbfc) </a>
+ ![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/67836186-af03-4ec1-b71d-9a66c155fbfc)
 
 <h1 align="center"> Emmanuel Olimi K </h1>
 <h3 align="center">.Graphics. Dev. AI </h3>
@@ -26,6 +26,7 @@ AWS, Azure. VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI.  LogicPr
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://olimi.wazigrouplimited.com"> Vcard </a>
 <a href="https://twitter.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olimiemma" height="30" width="40" /></a>
