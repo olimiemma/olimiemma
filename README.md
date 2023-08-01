@@ -7,7 +7,7 @@
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Java.Python. 
+Python. Java
 
 <h3 align="left"> 📈 Others. </h3>
 Others:  SQL, LangChain, Llama, PySpark, HTML, JSON, DataBricks, Apache Spark. Prompt engineering(-Deeplearning-GPT.)
