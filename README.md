@@ -1,4 +1,5 @@
-![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/67836186-af03-4ec1-b71d-9a66c155fbfc) 
+
+![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/45b98973-bc86-466e-8859-fce8c162f912)
 
 <h1 align="center"> Emmanuel Olimi K </h1>
 <h3 align="center">.Graphics. Dev. AI </h3>
