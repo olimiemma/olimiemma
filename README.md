@@ -2,7 +2,7 @@
 ![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/45b98973-bc86-466e-8859-fce8c162f912)
 
 <h1 align="center"> Emmanuel Olimi K </h1>
-<h3 align="center">.Graphics. Dev. AI </h3>
+<h3 align="center"> Graphics. Dev. Creative </h3>
 
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
