@@ -10,16 +10,20 @@
 Python. Java
 
 <h3 align="left"> 📈 Others. </h3>
-Others:  SQL, LangChain, Llama, PySpark, HTML, JSON, DataBricks, Apache Spark. Prompt engineering(-Deeplearning-GPT.)
+   LangChain, Llama, PySpark,SQL, HTML, JSON, DataBricks, Apache Spark. 
+          Prompt engineering(-Deeplearning-GPT.)
 
-AWS, Azure. VS code,  IntelliJ. ClickUp, Trello. Jupiter, Terminal CLI.  LogicPro tools, FruityLoops. 
-<br> Adobe, photoshop, illustrator, InDesign, after effects, audition.
+<br> Cloud: AWS, Azure. 
+<br> VS code, Jupyter, Anaconda, Terminal CLI. 
+<br>Music: FruityLoops, Adobe Audition
+<br> Graphics: Adobe(photoshop, illustrator, InDesign, After Effects). Inkscape, Gimp, Canva, 
+<br> Misc. IntelliJ. ClickUp. Trello.
  
- <br>Platforms: Linux Mint preferably, MacOS, Windows<br>
+ <br>Platforms: Linux Mint (Daily Driver), MacOS, Windows<br>
 <p>
 
   
- In my free time: let's talk Psychology,HBS, philosophy, and music. 🙂
+ In my free time: let's talk Psychology,HBS, philosophy, Business and Muuusiiiiccccc🎶. 🙂
 
 <a href="https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos">More about me</a>
 
