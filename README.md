@@ -2,7 +2,7 @@
 ![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/45b98973-bc86-466e-8859-fce8c162f912)
 
 <h1 align="center"> Emmanuel Olimi K </h1>
-<h3 align="center"> Graphics. Dev. Creative </h3>
+<h3 align="center">  Dev. Designer. Creative </h3>
 
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
@@ -14,7 +14,7 @@ Python. Java
           Prompt engineering(-Deeplearning-GPT.)
 
 <br> Cloud: AWS, Azure. 
-<br> VS code, Jupyter, Anaconda, Terminal CLI. 
+<br> IDEs: VS code, Anaconda, Terminal CLI. 
 <br>Music: FruityLoops, Adobe Audition
 <br> Graphics: Adobe(photoshop, illustrator, InDesign, After Effects). Inkscape, Gimp, Canva, 
 <br> Misc. IntelliJ. ClickUp. Trello.
