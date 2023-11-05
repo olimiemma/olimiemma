@@ -10,14 +10,14 @@
 Python. Java
 
 <h3 align="left"> 📈 Others. </h3>
-   LangChain, Llama, PySpark,SQL, HTML, JSON, DataBricks, Apache Spark. 
-          Prompt engineering(-Deeplearning-GPT.)
+   PySpark, SQL, HTML, DataBricks, Apache Spark. 
+          Prompt engineering, Deeplearning-GPT, Claude. LangChain, 
 
 <br> Cloud: AWS, Azure. 
-<br> IDEs: VS code, Anaconda, Terminal CLI. 
-<br>Music: FruityLoops, Adobe Audition
+<br> Envs:Anaconda, VS code,Terminal CLI. 
+<br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
 <br> Graphics: Adobe(photoshop, illustrator, InDesign, After Effects). Inkscape, Gimp, Canva, 
-<br> Misc. IntelliJ. ClickUp. Trello.
+<br> Misc. Trello. ClickUp. 
  
  <br>Platforms: Linux Mint (Daily Driver), MacOS, Windows<br>
 <p>
