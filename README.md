@@ -37,6 +37,7 @@ Python. Java
 <a href="https://stackoverflow.com/users/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://fb.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://olimi.wazigrouplimited.com"> Vcard </a>
+<a href="http://olimiemma.wazigrouplimited.com/"> Design Portflio </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
