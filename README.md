@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Emmanuel Olimi K </h1>
-<h3 align="center">  Dev. Designer </h3>
+<h3 align="center">  Engineer. Designer </h3>
 
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
