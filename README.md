@@ -1,5 +1,4 @@
-
-![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/45b98973-bc86-466e-8859-fce8c162f912)
+![rect112132](https://github.com/olimiemma/olimiemma/assets/98601170/8f2f23bd-9b7c-4bd5-8338-db3249a1be2a)
 
 <h1 align="center"> Emmanuel Olimi K </h1>
 <h3 align="center">  Dev. Designer </h3>
