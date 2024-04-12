@@ -23,7 +23,7 @@ Python. Java
 <p>
 
   
- In my free time: let's talk Psychology,HBS, philosophy, Business and Muuusiiiiccccc🎶. 🙂
+ In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
 
 <a href="https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos">More about me</a>
 
