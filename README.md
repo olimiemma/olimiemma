@@ -12,26 +12,26 @@ Python. Java. AI Models.
 <h3 align="left"> 📈 Others. </h3>
 Technical Skills
 
-Languages: Python, JavaScript, Java, Node.js, SQL, PHP
-Frameworks: React, React Native, Meteor, Express, Koa, Serverless, Kibana
-AI and Machine Learning:Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
-· NLP: SpaCy, NLTK, Hugging Face Transformers
-· Computer Vision: OpenCV, YOLO, TensorFlow Object Detection API
-· Reinforcement Learning: OpenAI Gym, Stable Baselines3, RLlib
-· Deep Learning: CNNs, RNNs, GANs
-· Data Visualization: Matplotlib, Seaborn, Plotly, D3.js
-· Big Data Tools: Hadoop, Apache Spark, Kafka, Flink
-· Model Deployment: TensorFlow Serving, ONNX, Flask, FastAPI
-· AI Development Environments: Jupyter Notebook, Google Colab, Kaggle
-· AutoML: H2O.ai, AutoKeras, Google Cloud AutoML
-Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
-Tools: Anaconda, VS Code, Git, Apache Spark, LangChain,Terraform, Docker, New Relic, Grafana, AWS
-Cloudwatch, ELK, JIRA, Trello, Wordpress, Cpanel.
-Operating Systems: Linux (Mint Cinnamon, Ubuntu, PopOS), Windows, macOS
-Graphics Design: Adobe Suite, Gimp, Inkscape, Figma, Canva
-CI/CD Pipelines: GitHub Actions, AWS CodePipeline, CircleCI, Travis
-APIs: GraphQL, REST, RPC, Koa, Express
-Cloud Services: AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS,
+<br>Languages: Python, JavaScript, Java, Node.js, SQL, PHP
+<br>Frameworks: React, React Native, Meteor, Express, Koa, Serverless, Kibana
+<br>AI and Machine Learning:Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+<br>· NLP: SpaCy, NLTK, Hugging Face Transformers
+<br>· Computer Vision: OpenCV, YOLO, TensorFlow Object Detection API
+<br>· Reinforcement Learning: OpenAI Gym, Stable Baselines3, RLlib
+<br>· Deep Learning: CNNs, RNNs, GANs
+<br>· Data Visualization: Matplotlib, Seaborn, Plotly, D3.js
+<br>· Big Data Tools: Hadoop, Apache Spark, Kafka, Flink
+<br>· Model Deployment: TensorFlow Serving, ONNX, Flask, FastAPI
+<br>· AI Development Environments: Jupyter Notebook, Google Colab, Kaggle
+<br>· AutoML: H2O.ai, AutoKeras, Google Cloud AutoML
+<br>Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
+<br>Tools: Anaconda, VS Code, Git, Apache Spark, LangChain,Terraform, Docker, New Relic, Grafana, AWS
+<br>Cloudwatch, ELK, JIRA, Trello, Wordpress, Cpanel.
+<br>Operating Systems: Linux (Mint Cinnamon, Ubuntu, PopOS), Windows, macOS
+<br>Graphics Design: Adobe Suite, Gimp, Inkscape, Figma, Canva
+<br>CI/CD Pipelines: GitHub Actions, AWS CodePipeline, CircleCI, Travis
+<br>APIs: GraphQL, REST, RPC, Koa, Express
+<br>Cloud Services: AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS,
 AppSync, Opensearch), Heroku, Google Cloud, Azure, DigitalOcean.
 
            
