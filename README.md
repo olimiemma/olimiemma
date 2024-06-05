@@ -9,9 +9,8 @@
 <h3 align="left">   👨‍💻  I work with:</h3>
 Python. Java. AI Models.
 
-<h3 align="left"> 📈 Others. </h3>
+<h3 align="left"> 📈 . </h3>
 Technical Skills
-
 <br>Languages: Python, JavaScript, Java, Node.js, SQL, PHP
 <br>Frameworks: React, React Native, Meteor, Express, Koa, Serverless, Kibana
 <br>AI and Machine Learning:Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
