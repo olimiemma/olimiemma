@@ -7,25 +7,37 @@
 👋 Hi!, I’m Emmanuel Olimi Kasigazi
 
 <h3 align="left">   👨‍💻  I work with:</h3>
-Python. Java
+Python. Java. AI Models.
 
 <h3 align="left"> 📈 Others. </h3>
-   PySpark, SQL, HTML, DataBricks, Apache Spark. 
-          Prompt engineering, Deeplearning-GPT, Claude. LangChain, 
+           Prompt engineering = GPT LangChain. , Anthropics-Claude. Hugging face-Cohere, Amazon Lex, Llama.
 
 <br> Cloud: AWS, Azure. 
-<br> Envs:Anaconda, VS code,Terminal CLI. 
+<br> Envs:Anaconda Env(Jupyter Pycharm, Sypder), GoogleCollab, VS code,Terminal CLI. 
 <br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
 <br> Graphics: Adobe(photoshop, illustrator, InDesign, After Effects). Inkscape, Gimp, Canva, 
 <br> Misc. Trello. ClickUp. 
  
- <br>Platforms: Linux Mint (Daily Driver), MacOS, Windows<br>
+ <br>Platforms: Linux Mintcinnamon  (Daily Driver), MacOS, Windows<br>
 <p>
 
   
  In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
 
-<a href="https://global.mit.edu/news-stories/a-whole-new-world-of-learning-via-mit-opencourseware-videos">More about me</a>
+Technical Skills
+
+Languages: Python, JavaScript, Java, Node.js, SQL, C, C++, Bash, PHP
+Frameworks: React, AngularJS, Express, Koa, Serverless, Kibana
+AI/ML: TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, OpenCV
+Data Visualization: Plotly, D3.js, Matplotlib, Seaborn
+Big Data: Apache Spark, Hadoop, Kafka
+Cloud: AWS, Google Cloud, Azure, AliCloud, DigitalOcean
+CI/CD: GitHub Actions, AWS CodePipeline, CircleCI, Travis
+Tools: Docker, Terraform, JIRA, VS Code, Anaconda
+OS: Linux (Mint, Ubuntu, PopOS), Windows, macOS
+Design: Adobe Suite, Gimp, Inkscape
+
+<a href="https://linktr.ee/olimiemma">More about me</a>
 
   
 
