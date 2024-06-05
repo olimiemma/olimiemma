@@ -10,12 +10,22 @@
 Python. Java. AI Models.
 
 <h3 align="left"> 📈 Others. </h3>
-           Prompt engineering = GPT LangChain. , Anthropics-Claude. Hugging face-Cohere, Amazon Lex, Llama.
+Technical Skills
 
-<br> Cloud: AWS, Azure. 
-<br> Envs:Anaconda Env(Jupyter Pycharm, Sypder), GoogleCollab, VS code,Terminal CLI. 
+Languages: Python, JavaScript, Java, Node.js, SQL, C, C++, Bash, PHP
+ <br>Frameworks: React, AngularJS, Express, Koa, Serverless, Kibana
+ <br>AI/ML: TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, OpenCV, Amazon Lex.
+ <br>Data Visualization: Plotly, D3.js, Matplotlib, Seaborn
+ <br>Big Data: Apache Spark, Hadoop, Kafka
+ <br>Cloud: AWS, Google Cloud, Azure, AliCloud, DigitalOcean
+ <br>CI/CD: GitHub Actions, AWS CodePipeline, CircleCI, Travis
+ <br>Tools: Docker, Terraform, JIRA, VS Code, Anaconda (Jupyter, Pycharm, Sypder), GoogleCollab,Terminal/CLI. 
+ <br>OS: Linux (Mint, Ubuntu, PopOS), Windows, macOS
+ <br>Design: Adobe Suite, Gimp, Inkscape, Canva, Figma
+           
+<br> Prompt engineering = GPT(by Ng's Deeplearning) . LangChain.  Anthropics-Claude. Hugging face-Cohere, Amazon Lex,
+
 <br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
-<br> Graphics: Adobe(photoshop, illustrator, InDesign, After Effects). Inkscape, Gimp, Canva, 
 <br> Misc. Trello. ClickUp. 
  
  <br>Platforms: Linux Mintcinnamon  (Daily Driver), MacOS, Windows<br>
@@ -23,19 +33,6 @@ Python. Java. AI Models.
 
   
  In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
-
-Technical Skills
-
-Languages: Python, JavaScript, Java, Node.js, SQL, C, C++, Bash, PHP
-Frameworks: React, AngularJS, Express, Koa, Serverless, Kibana
-AI/ML: TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, OpenCV
-Data Visualization: Plotly, D3.js, Matplotlib, Seaborn
-Big Data: Apache Spark, Hadoop, Kafka
-Cloud: AWS, Google Cloud, Azure, AliCloud, DigitalOcean
-CI/CD: GitHub Actions, AWS CodePipeline, CircleCI, Travis
-Tools: Docker, Terraform, JIRA, VS Code, Anaconda
-OS: Linux (Mint, Ubuntu, PopOS), Windows, macOS
-Design: Adobe Suite, Gimp, Inkscape
 
 <a href="https://linktr.ee/olimiemma">More about me</a>
 
