@@ -33,8 +33,10 @@ Technical Skills
 <br>Cloud Services: AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS,
 AppSync, Opensearch), Heroku, Google Cloud, Azure, DigitalOcean.
 
-<br>AWS Solutions Architect. 
-<br> Prompt Engineer=(Deeplearning by Andrew Ng ) . 
+<br>AWS Solutions Architect.
+
+<br> Prompt Engineer: Deeplearning's as taught by  Andrew Ng, 2022. 
+
 <br>Models worked with so far: Claude, GPT. Huggingface-Coherent, Llama, Falcon.
 
 <br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
