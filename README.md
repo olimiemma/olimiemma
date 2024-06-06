@@ -39,13 +39,13 @@ AppSync, Opensearch), Heroku, Google Cloud, Azure, DigitalOcean.
 <br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
 <br> Misc. Trello. ClickUp. 
  
- <br>Platforms: Linux Mintcinnamon  (Daily Driver), MacOS, Windows<br>
+ <br>Platforms: Linux Mint cinnamon  (Daily Driver), MacOS, Windows<br>
 <p>
 
   
  In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
 
-<a href="https://linktr.ee/olimiemma">More about me</a>
+ <br> More about personally <a href="https://linktr.ee/olimiemma">here</a>
 
   
 
