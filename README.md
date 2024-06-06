@@ -24,7 +24,7 @@ Technical Skills
 <br>· AI Development Environments: Jupyter Notebook, Google Colab, Kaggle
 <br>· AutoML: H2O.ai, AutoKeras, Google Cloud AutoML
 <br>Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
-<br>Tools: Anaconda, VS Code, Git, Apache Spark, LangChain,Terraform, Docker, New Relic, Grafana, AWS
+<br>Tools: Anaconda, VS Code, Git, Apache Spark, LangChain, Amazon Lex, Terraform, Docker, New Relic, Grafana, AWS, 
 <br>Cloudwatch, ELK, JIRA, Trello, Wordpress, Cpanel.
 <br>Operating Systems: Linux (Mint Cinnamon, Ubuntu, PopOS), Windows, macOS
 <br>Graphics Design: Adobe Suite, Gimp, Inkscape, Figma, Canva
@@ -33,19 +33,20 @@ Technical Skills
 <br>Cloud Services: AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS,
 AppSync, Opensearch), Heroku, Google Cloud, Azure, DigitalOcean.
 
-           
-<br> Prompt Engineering = GPT(by Ng's Deeplearning) . LangChain -Claude API, OpenAI API. Hugging face-Cohere, Amazon Lex,
+<br>AWS Solutions Architect. 
+<br> Prompt Engineer=(Deeplearning by Andrew Ng ) . 
+<br>Models worked with so far: Claude, GPT. Huggingface-Coherent, Llama, Falcon.
 
 <br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
 <br> Misc. Trello. ClickUp. 
  
- <br>Platforms: Linux Mint cinnamon  (Daily Driver), MacOS, Windows<br>
+ <br>Platforms: Linux Mint cinnamon  (preferred Daily Driver), MacOS, Windows<br>
 <p>
 
   
  In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
 
- <br> More about personally <a href="https://linktr.ee/olimiemma">here</a>
+ <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a>
 
   
 
