@@ -4,48 +4,45 @@
 <h1 align="center"> Emmanuel Olimi K </h1>
 <h3 align="center">  Engineer. Designer </h3>
 
-👋 Hi!, I’m Emmanuel Olimi Kasigazi
+## Emmanuel Olimi Kasigazi - AI/ML Engineer
 
-<h3 align="left">   👨‍💻  I work with:</h3>
-Python. Java. AI Models.
+**Hi!** I'm an AI/ML Engineer with a passion for building and deploying intelligent systems.
 
-<h3 align="left"> 📈 . </h3>
-Technical Skills
-<br>Languages: Python, JavaScript, Java, Node.js, SQL, PHP
-<br>Frameworks: React, React Native, Meteor, Express, Koa, Serverless, Kibana
-<br>AI and Machine Learning:Machine Learning Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
-<br>· NLP: SpaCy, NLTK, Hugging Face Transformers
-<br>· Computer Vision: OpenCV, YOLO, TensorFlow Object Detection API
-<br>· Reinforcement Learning: OpenAI Gym, Stable Baselines3, RLlib
-<br>· Deep Learning: CNNs, RNNs, GANs
-<br>· Data Visualization: Matplotlib, Seaborn, Plotly, D3.js
-<br>· Big Data Tools: Hadoop, Apache Spark, Kafka, Flink
-<br>· Model Deployment: TensorFlow Serving, ONNX, Flask, FastAPI
-<br>· AI Development Environments: Jupyter Notebook, Google Colab, Kaggle
-<br>· AutoML: H2O.ai, AutoKeras, Google Cloud AutoML
-<br>Databases: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
-<br>Tools: Anaconda, VS Code, Git, Apache Spark, LangChain, Amazon Lex, Terraform, Docker, New Relic, Grafana, AWS, 
-<br>Cloudwatch, ELK, JIRA, Trello, Wordpress, Cpanel.
-<br>Operating Systems: Linux (Mint Cinnamon, Ubuntu, PopOS), Windows, macOS
-<br>Graphics Design: Adobe Suite, Gimp, Inkscape, Figma, Canva
-<br>CI/CD Pipelines: GitHub Actions, AWS CodePipeline, CircleCI, Travis
-<br>APIs: GraphQL, REST, RPC, Koa, Express
-<br>Cloud Services: AWS (ECS, EKS, Lambda, API Gateway, SQS, Kinesis, RDS, DynamoDB, Glue, DMS,
-AppSync, Opensearch), Heroku, Google Cloud, Azure, DigitalOcean.
+**Expertise:**
 
-<br>AWS Solutions Architect.
+* **Machine Learning & Deep Learning:**
+    * Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+    * NLP: SpaCy, NLTK, Hugging Face Transformers
+    * Reinforcement Learning: OpenAI Gym, Stable Baselines3, RLlib
+    * Deep Learning Architectures: CNNs, RNNs, GANs
+* **Model Deployment:** TensorFlow Serving, ONNX, Flask, FastAPI
+* **Data Visualization:** Matplotlib, Seaborn, Plotly
+* **AutoML:** CrewAi, AutoKeras, Google Cloud AutoML
 
-<br> Prompt Engineer: Deeplearning's as taught by  Andrew Ng, 2022. 
+**Technical Skills:**
 
-<br>Models worked with so far: Claude, GPT. Huggingface-Coherent, Llama, Falcon.
+* **Programming Languages:** Python (primary), Java, JavaScript, Node.js, SQL, PHP
+* **Web Frameworks:** React, React Native, Meteor, Express, Koa, Serverless
+* **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
+* **DevOps & Tools:** Git, Anaconda, VS Code, LangChain, LangGraph, Terraform, Docker, AWS Tools (CloudWatch, ELK), New Relic, Grafana, JIRA, Trello
+* **CI/CD Pipelines:** GitHub Actions, AWS CodePipeline, CircleCI, Travis
+* **APIs:** GraphQL, REST, RPC
+* **Graphics Design:** Adobe Suite, Gimp, Inkscape, Figma, Canva
 
-<br>Music/Audio: FruityLoops, Adobe Audition, Audacity.
-<br> Misc. Trello. ClickUp. 
+**Additional Skills:**
+
+* **AWS Solutions Architect** (certification or relevant experience)
+* **Prompt Engineering:** Deeplearning's course by Andrew Ng (2022)
+* **Experience with Large Language Models:** Claude, GPT-x, Huggingface Transformers (Coherent, Llama, Falcon)
+* **Music/Audio Production:** FruityLoops, Adobe Audition, Audacity
+* **Project Management:** Trello, ClickUp
+
+**Platforms:**
+
+* **Daily Driver:** Linux Mint Cinnamon (preferred)
+* **Additional:** macOS, Windows
+
  
- <br>Platforms: Linux Mint cinnamon  (preferred Daily Driver), MacOS, Windows<br>
-<p>
-
-  
  In my free time: let's talk Psychology,HBS, philosophy, life long learning and Muuusiiiiccccc🎶. 🙂
 
  <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a>
