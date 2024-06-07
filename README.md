@@ -32,10 +32,11 @@
 **Additional Skills:**
 
 * **AWS Solutions Architect** (certification or relevant experience)
-* **Prompt Engineering:** Deeplearning's course by Andrew Ng (2022)
 * **Experience with Large Language Models:** Claude, GPT-x, Huggingface Transformers (Coherent, Llama, Falcon)
+* **Prompt Engineering:** Deeplearning's course by Andrew Ng (2022)
+* **Data science and stastics** MITx, MIT ocw and data Camp
 * **Music/Audio Production:** FruityLoops, Adobe Audition, Audacity
-* **Project Management:** Trello, ClickUp
+* **Project Management:** Trello, ClickUp, Slack, Discord
 
 **Platforms:**
 
