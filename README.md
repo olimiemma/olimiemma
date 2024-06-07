@@ -44,7 +44,7 @@
 * **Additional:** macOS, Windows
 
  
- In my free time: let's talk <a href="https://www.youtube.com/shorts/kLuUwJs_VKA" target="_blank" > Psychology, Human behavioural sciences, philosophy </a> and <a href="https://soundcloud.com/ekolegend" target="_blank">  Muuusiiiiccccc🎶 <a/>. 🙂
+ In my free time: let's talk <a href="https://www.youtube.com/shorts/kLuUwJs_VKA" target="_blank" > Psychology, Human behavioural sciences, philosophy </a> and <a href="https://soundcloud.com/ekolegend" target="_blank" >  Muuusiiiiccccc🎶 <a/>. 🙂
 
  <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a>
 
