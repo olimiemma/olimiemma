@@ -5,7 +5,7 @@
 
 ## Emmanuel Olimi Kasigazi - Software/AI.ML Engineer
 
-**Hi!** I've been a software engineer since 2010, graphics designer since 2008, an AI/ML Engineer since 2021 and podcast host at MIT since 2023. Lets work:)
+**Hi!** I've been graphics designer since 2008, a software engineer since 2010, an AI/ML Engineer since 2021 and podcast host at MIT since 2023. Lets work:)
 
 **Expertise:**
 
