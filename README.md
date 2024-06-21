@@ -3,9 +3,9 @@
 
 <h3 align="center">  Engineer. Designer </h3>
 
-## Emmanuel Olimi Kasigazi - Software/AI.ML Engineer
+## Emmanuel Olimi Kasigazi - Engineer [Software/AI.ML/Prompt] 
 
-**Hi!** I've been graphics designer since 2008, a software engineer since 2010, an AI/ML Engineer since 2021 and podcast host at MIT since 2023. Lets work:)
+**Hi!** I've been a Designer since 2008, a software engineer since 2010, an AI/ML Engineer since 2021 and podcast host at MIT since 2023. Lets work:). I specialize /prefer in back end. 
 
 **Expertise:**
 
