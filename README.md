@@ -46,11 +46,12 @@ PS: I prefer/specialize in back end at this point in my life
  
  In my free time: let's talk <a href="https://www.youtube.com/shorts/kLuUwJs_VKA" target="_blank" > Psychology, Human behavioural sciences, philosophy </a> and <a href="https://soundcloud.com/ekolegend" target="_blank" >  Muuusiiiiccccc🎶 <a/>. 🙂
 
- <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a>
+ <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a> 
+<br> My engineering work on youtube <a href="https://youtu.be/8MTiHNtl3sg?si=lcH0BSc5S-y6HuaT">here</a> 
 
   
 
-<h3 align="left">Connect  life long learningwith me:</h3>
+<h3 align="left">Connect  with me:</h3>
 <p align="left">
  Huggingface </a> 
 <a href="https://twitter.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olimiemma" height="30" width="40" /></a>
