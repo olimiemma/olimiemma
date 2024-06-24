@@ -32,10 +32,10 @@ PS: I prefer/specialize in back end at this point in my life
 **Additional Skills:**
 
 * **AWS Solutions Architect** (SAA-C03)
-* **Experience with Large Language Models:** Claude, GPT-x, Huggingface Transformers (Coherent, Llama, Falcon)
-* **Prompt Engineering:** Deeplearning's course by Andrew Ng (2022)
-* **Data science and stastics** MITx, MIT ocw and data Camp
-* **Music/Audio Production:** FruityLoops, Adobe Audition, Audacity
+* **Experience with Large Language Models:** Claude, GPT-x, Huggingface Transformers (Cohere, Llama, Falcon)
+* **Prompt Engineering:** <a href="https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/lesson/3/iterative">Deeplearning's course </a> by Andrew Ng (2022)
+* **Data science and stastics**<a href="https://www.linkedin.com/posts/mit-opencourseware_emmanuels-learning-journey-activity-7196196069230157825-t3Yg?utm_source=share&utm_medium=member_desktop"> MITx, MIT ocw </a>  and  <a href="[https://linktr.ee/olimiemma](https://www.datacamp.com/statement-of-accomplishment/course/6a364d7667a9db55b8b18658b527c2f4fdeb9091?raw=1)">data Camp</a>  
+* **Music/Audio Production:** <a href="soundcloud.com/ekolegend">FruityLoops, Adobe Audition, Audacity</a> 
 * **Project Management:** Trello, ClickUp, Slack, Discord
 
 **Platforms:**
