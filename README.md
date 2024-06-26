@@ -46,10 +46,11 @@ PS: I prefer/specialize in back end at this point in my life
  
  In my free time: let's talk <a href="https://www.youtube.com/shorts/kLuUwJs_VKA" target="_blank" > Psychology, Human behavioural sciences, philosophy </a> and <a href="https://soundcloud.com/ekolegend" target="_blank" >  Muuusiiiiccccc🎶 <a/>. 🙂
 
- <br> More about me personally <a href="https://linktr.ee/olimiemma">here</a> 
-<br> My engineering work on youtube <a href="https://youtu.be/8MTiHNtl3sg?si=lcH0BSc5S-y6HuaT">here</a> 
+ <br> More about me personally <a href="https://linktr.ee/olimiemma">me personally</a> 
+<br> My tech rumbles  <a href="https://youtu.be/8MTiHNtl3sg?si=lcH0BSc5S-y6HuaT">on youtube</a> 
 
-  
+Some of my work as <a href="https://dusupay.com/">web developer-</a>  
+some of my work as a <a href="https://www.linkedin.com/in/olimiemma/details/experience/418749680/multiple-media-viewer/?profileId=ACoAABAmFT8Bi63w_ney1ZysB9YSmEbb9mzvJlw&treasuryMediaId=1716131984120"> graphics designer </a> 
 
 <h3 align="left">Connect  with me:</h3>
 <p align="left">
@@ -59,5 +60,5 @@ PS: I prefer/specialize in back end at this point in my life
 <a href="https://stackoverflow.com/users/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://fb.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olimiemma" height="30" width="40" /></a>
 
-
+NB: newer github account, long story, ask me about it sometime 😹
 </p>
