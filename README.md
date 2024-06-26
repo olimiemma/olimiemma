@@ -46,7 +46,7 @@ PS: I prefer/specialize in back end at this point in my life
  
  In my free time: let's talk <a href="https://www.youtube.com/shorts/kLuUwJs_VKA" target="_blank" > Psychology, Human behavioural sciences, philosophy </a> and <a href="https://soundcloud.com/ekolegend" target="_blank" >  Muuusiiiiccccc🎶 <a/>. 🙂
 
- <br> More about me personally <a href="https://linktr.ee/olimiemma">me personally</a> 
+ <br> More about <a href="https://linktr.ee/olimiemma">me personally</a> 
 <br> My tech rumbles  <a href="https://youtu.be/8MTiHNtl3sg?si=lcH0BSc5S-y6HuaT">on youtube</a> 
 
 Some of my work as <a href="https://dusupay.com/">web developer-</a>  
