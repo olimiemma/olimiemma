@@ -15,7 +15,7 @@ PS: I prefer/specialize in back end at this point in my life
     * NLP: SpaCy, NLTK, Hugging Face Transformers
     * Reinforcement Learning: OpenAI Gym, Stable Baselines3, RLlib
     * Deep Learning Architectures: CNNs, RNNs, GANs
-* **Model Deployment:** TensorFlow Serving, ONNX, Flask, FastAPI
+* **Model Deployment:** TensorFlow Serving, ONNX, Flask, FastAPI, Jinja
 * **Data Visualization:** Matplotlib, Seaborn, Plotly
 * **AutoML:** CrewAi, AutoKeras, Google Cloud AutoML
 
