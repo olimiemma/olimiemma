@@ -8,7 +8,17 @@
 **Hi!** I've been a Designer since 2007, a software engineer since 2010, an AI (backend) Engineer since 2021 and podcast host at MIT since 2023. Lets work:).
 PS: I prefer/specialize in back end at this point in my life 
 
-**Expertise:**
+
+
+**Technical Skills:**
+
+* **Programming Languages:** Python (primary), Node.js, Java, JavaScript, SQL, PHP
+* **Web Frameworks:** React, React Native, Meteor, Express, Koa, Serverless
+* **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
+* **DevOps & Tools:** Git, Anaconda, VS Code, LangChain, LangGraph, Terraform, Docker, AWS Tools (CloudWatch, ELK), New Relic, Grafana.
+* **CI/CD Pipelines:** GitHub Actions, AWS CodePipeline, CircleCI, Travis
+* **APIs:** GraphQL, REST, RPC
+* **Graphics Design:** Adobe Suite, Gimp, Inkscape, Figma, Canva
 
 * **Machine Learning & Deep Learning:**
     * Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
@@ -18,16 +28,6 @@ PS: I prefer/specialize in back end at this point in my life
 * **Model Deployment:** TensorFlow Serving, ONNX, Flask, FastAPI, Jinja
 * **Data Visualization:** Matplotlib, Seaborn, Plotly
 * **AutoML:** CrewAi, AutoKeras, Google Cloud AutoML
-
-**Technical Skills:**
-
-* **Programming Languages:** Python (primary), Java, JavaScript, Node.js, SQL, PHP
-* **Web Frameworks:** React, React Native, Meteor, Express, Koa, Serverless
-* **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
-* **DevOps & Tools:** Git, Anaconda, VS Code, LangChain, LangGraph, Terraform, Docker, AWS Tools (CloudWatch, ELK), New Relic, Grafana.
-* **CI/CD Pipelines:** GitHub Actions, AWS CodePipeline, CircleCI, Travis
-* **APIs:** GraphQL, REST, RPC
-* **Graphics Design:** Adobe Suite, Gimp, Inkscape, Figma, Canva
 
 **Additional Skills:**
 
