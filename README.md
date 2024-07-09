@@ -58,6 +58,7 @@ some of my work as a <a href="https://www.linkedin.com/in/olimiemma/details/expe
 <a href="https://twitter.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olimiemma" height="30" width="40" /></a>
 <a href="https://fb.com/olimiemma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="olimiemma" height="30" width="40" /></a>
+ <a href="https://huggingface.co/olimiemma/">HuggingFace-</a> 
 
 NB: newer github account, long story, ask me about it sometime 😹
 </p>
