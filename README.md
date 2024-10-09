@@ -1,9 +1,9 @@
 
-<a href="https://news.mit.edu/2022/new-world-learning-mit-ocw-emmanuel-kasigazi-1107"  target="_blank" > ![rect112z132](https://github.com/olimiemma/olimiemma/assets/98601170/109b1c04-65a9-4694-9f22-341253c2ec3f) </a>
+<!--<a href="https://news.mit.edu/2022/new-world-learning-mit-ocw-emmanuel-kasigazi-1107"  target="_blank" > ![rect112z132](https://github.com/olimiemma/olimiemma/assets/98601170/109b1c04-65a9-4694-9f22-341253c2ec3f) </a> -->
 
 <h3 align="center">  Engineer. Designer </h3>
 
-## Emmanuel Olimi Kasigazi - Engineer [Software/AI.ML/Prompt] 
+## Emmanuel Olimi Kasigazi - Data Analyst
 
 **Hi!** I've been a Designer since 2007, a software engineer since 2010, an AI (backend) Engineer since 2021 and podcast host at MIT since 2023. Lets work:).
 PS: I prefer/specialize in back end at this point in my life 
@@ -12,7 +12,7 @@ PS: I prefer/specialize in back end at this point in my life
 
 **Technical Skills:**
 
-* **Programming Languages:** Python (primary), Node.js, Java, JavaScript, SQL, PHP
+* **Programming Languages:** Python (primary), SQL,
 * **Web Frameworks:** React, React Native, Meteor, Express, Koa, Serverless
 * **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
 * **DevOps & Tools:** Git, Anaconda, VS Code, LangChain, LangGraph, Terraform, Docker, AWS Tools (CloudWatch, ELK), New Relic, Grafana.
