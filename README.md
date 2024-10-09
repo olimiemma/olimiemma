@@ -17,7 +17,6 @@ PS: I prefer/specialize in back end at this point in my life
 * **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Memcache, Elasticsearch
 * **DevOps & Tools:** Git, Anaconda, VS Code, LangChain, LangGraph, Terraform, Docker, AWS Tools (CloudWatch, ELK), New Relic, Grafana.
 * **CI/CD Pipelines:** GitHub Actions, AWS CodePipeline, CircleCI, Travis
-* **APIs:** GraphQL, REST, RPC
 * **Graphics Design:** Adobe Suite, Gimp, Inkscape, Figma, Canva
 
 * **Machine Learning & Deep Learning:**
