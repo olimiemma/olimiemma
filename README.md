@@ -3,9 +3,9 @@
 
 <h3 align="center">  Data Analyst </h3>
 
-## Emmanuel Olimi Kasigazi - Data Analyst
+## Emmanuel Olimi Kasigazi - Data Analyst / LLM enginer
 
-**Hi!** I've been a Designer since 2007, a software engineer since 2010, a Data analyst since 2021 and podcast host at MIT since 2023. Lets work:).
+**Hi!** I've been a Designer since 2007, a software engineer since 2010, a Data scientist since 2021 and podcast host at MIT since 2023. Lets work:).
 
 
 * **PS: Daily Driver OS:** Linux Mint Cinnamon (preferred)
