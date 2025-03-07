@@ -5,7 +5,7 @@
 
 ## Emmanuel Olimi Kasigazi - Data Analyst / LLM enginer
 
-**Hi!** I've been a Designer since 2007, a software engineer since 2010, a Data scientist since 2021 and podcast host at MIT since 2023. Lets work:).
+**Hi!** I've been a Designer since 2007, a software engineer since 2010, a Data scientist since 2021 and podcast host with Massachusetts Institute of Technology's OCW a since 2022 and Yeshiva University's Katz Shcool in Manhattan since 2025. Lets work:).
 
 
 * **PS: Daily Driver OS:** Linux Mint Cinnamon (preferred)
