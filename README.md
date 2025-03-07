@@ -12,7 +12,7 @@
 
 
  <br> More about <a href="https://linktr.ee/olimiemma">me personally</a> 
-<br> My tech rumbles  <a "https://www.youtube.com/watch?v=8MTiHNtl3sg&list=PLxfd9fwjWNsW-ZFSLPw5QnoEaVAUA7829" >on youtube</a> 
+<br> My tech rumbles  <a href= "https://www.youtube.com/watch?v=8MTiHNtl3sg&list=PLxfd9fwjWNsW-ZFSLPw5QnoEaVAUA7829" >on youtube</a> 
 
 <h3 align="left">Connect  with me:</h3>
 <p align="left">
