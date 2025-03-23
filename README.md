@@ -3,11 +3,11 @@
 
 <h3 align="center">  Data Analyst </h3>
 
-## Emmanuel Olimi Kasigazi - Data Analyst / LLM enginer
+## Emmanuel Olimi Kasigazi - Data Analyst / Machhine Learning engineer
 
 **Hi!** I've been a Designer since 2007, a software engineer since 2010, a Data scientist since 2021 and podcast host with Massachusetts Institute of Technology's OCW a since 2022 and Yeshiva University's Katz Shcool in Manhattan since 2025. Lets work:).
 
-
+* **Tech:**Python, SQL, R.. Snowflake.
 * **PS: Daily Driver OS:** Linux Mint Cinnamon (preferred)
 
 
