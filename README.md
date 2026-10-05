@@ -12,7 +12,7 @@
 
 ---
 I’m a New York–based Data & LLM Engineer who builds data pipelines and AI applications, taking projects from stakeholder requirements through implementation and delivery. My background in software development, business leadership, and communications helps me translate business needs into technical solutions, explain tradeoffs, and support the people who use them. I hold an M.S. in Data Analytics and Visualization from Yeshiva University in Manhattan, NY and a MicroMasters in Statistics and Data Science from the Massachusetts Institute of Technology.
----
+
 Everyone wants AI. AI runs on good data. I work both halves: **finding the data that is missing, fixing the data that exists, building the pipelines that keep it reliable, and putting AI applications on top**, then staying through delivery so the people using it actually adopt it.
 
 14+ years across tech, government, health, media, non-profits and education · National Science Foundation I-Corps Fellow · VC Lab-certified Venture Institute Fellow.
