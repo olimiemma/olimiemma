@@ -19,13 +19,13 @@ Everyone wants AI. AI runs on good data. I work both halves: **finding the data 
 
 ## What I do
 
-**Data engineering:** ETL, dimensional modeling (star schema, SCD2), data quality, enrichment and web scraping. Python, SQL, PostgreSQL, Microsoft Fabric.
+**Data engineering.** Production ETL and ELT, batch and stream processing, orchestration (Airflow), dimensional modeling (star schema, SCD2), and the data-quality work that makes any of it trustworthy. I have consolidated 100+ fragmented sources into one master database at 99%+ integrity and processed 300M+ records at scale. Python, SQL, Snowflake (streams, tasks, dynamic tables), PostgreSQL, Databricks (Delta Lake, Unity Catalog), Microsoft Fabric.
 
-**Analytics & data science:** statistics, explainable ML (XGBoost, SHAP), and dashboards people actually open. Tableau, Power BI, R.
+**LLM and agentic AI.** Production RAG from ingestion to eval: hybrid retrieval, BGE-M3 and OpenAI embeddings, ChromaDB and vector search, multi-model routing (LiteLLM), agentic orchestration (LangGraph, custom multi-agent), and MCP server design. I ship with evaluation harnesses, not vibes: LLM-as-judge, RAGAS, Mean Reciprocal Rank 0.990 and Precision@3 0.993 on AXAM. I also do the hard part most people skip, quantized on-device inference that runs fully offline on zero-GPU hardware (llama.cpp, GGUF, Ollama), including a three-tier serving layer that cut latency from 285s to 18.9s.
 
-**LLM engineering:** production RAG, agentic AI, MCP servers, model routing, and private on-device inference.
+**Analytics and data science.** Statistics, explainable ML, and dashboards people actually open on a Monday. Real-world stakes, from ICU survival prediction to household financial risk, communicated so a decision-maker can act. Python, R, Tableau, Power BI, scikit-learn, SHAP.
 
-**Leadership & communication:** stakeholder discovery, requirements, team leadership, public speaking, podcasting, brand and design.
+**Leadership and communication.** I translate business needs into technical plans and then move the room. 200+ National Science Foundation customer-discovery interviews, teams of 7 to 20+, VC Lab-certified in deal diligence and fund modeling, and an MIT OpenCourseWare podcast that reached 6M+ people. Stakeholder discovery, requirements, public speaking, brand and design.
 
 ## Selected work
 
@@ -48,10 +48,21 @@ Everyone wants AI. AI runs on good data. I work both halves: **finding the data 
 
 ## Toolbox
 
-**Languages:** Python, SQL, R, JavaScript/TypeScript
-**AI/LLM:** RAG, LangChain, LangGraph, Hugging Face, Ollama, MCP, LLM evaluation
-**Data:** Spark, Databricks, Snowflake, Microsoft Fabric, PostgreSQL, ChromaDB, Power BI, Tableau
-**Infra:** Docker, Kubernetes, AWS, GCP, Azure, Cloudflare
+**Languages:** Python (Pandas, FastAPI, async), SQL, R, Java, JavaScript/TypeScript, Bash
+
+**Data engineering:** ETL/ELT pipelines, batch and stream processing, orchestration (Airflow), dimensional modeling, schema design, normalization, indexing, ACID, OLTP vs OLAP, materialized views, stored procedures, data quality and governance
+
+**Databases and platforms:** CloudFlare, AWS, Azure, Snowflake (streams, tasks, dynamic tables), PostgreSQL, MySQL, Oracle, MongoDB, Databricks (Delta Lake, Unity Catalog, Model Serving), Microsoft Fabric, ChromaDB
+
+**AI, LLM and agentic:** RAG, hybrid retrieval, embeddings (BGE-M3, OpenAI), vector search, multi-provider integration (OpenAI, Anthropic, Gemini, DeepSeek, Grok) via OpenRouter, Groq and OpenAI-compatible endpoints, multi-model routing (LiteLLM), framework selection (LangChain, LlamaIndex), agentic orchestration (LangGraph, OpenAI Agents SDK, custom multi-agent), MCP servers, tool/function calling with structured JSON, prompt and context engineering, tokenization (tiktoken, BPE), on-device/offline inference and quantization (llama.cpp, GGUF, Ollama), fine-tuning (QLoRA, LoRA, PEFT) and data curation, prompt-injection defense
+
+**LLM evaluation and ops:** LLM-as-judge, RAGAS, Mean Reciprocal Rank and Precision@k, observability (Weights & Biases, Langfuse, MLflow), serverless GPU deployment (Modal), app UIs and hosting (Gradio, Hugging Face Spaces), Hugging Face, PyTorch, OpenAI/Anthropic SDKs
+
+**Analytics and BI:** statistics, explainable ML (scikit-learn, SHAP), Tableau, Power BI, Microsoft Fabric
+
+**Cloud and infra:** AWS, Azure (Azure OpenAI, ADLS Gen2, Entra ID, Key Vault), Cloudflare (Workers, Pages, R2), Docker, Kubernetes, CI/CD, Git, Linux (daily driver, 16+ years)
+
+**AI-assisted development:** Claude Code, Codex, Mistral(vibe), GeminiCLI, Cursor, AntiGravity
 
 ## Recognition
 
