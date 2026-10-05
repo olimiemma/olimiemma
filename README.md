@@ -66,14 +66,20 @@ Everyone wants AI. AI runs on good data. I work both halves: **finding the data 
 
 ## Recognition
 
-• National Science Foundation I-Corps Fellow | 2025: Selected for the federal government's flagship commercialization
-program
+• National Science Foundation I-Corps Fellow | 2025: Selected for the federal government's flagship [commercialization
+program](https://www.yu.edu/news/katz/student-entrepreneurs-expand-access-quality-education-offline-ai-platform) 
+
 • Podcast co-host for MIT OpenCourseWare; featured in the documentary [The Courage to Be Open](https://youtu.be/RkhSkE89KJ0?t=446)
+
 • President, Katz African Students Association, Yeshiva University | 2025-26: Led a 7-member executive team serving 1,700+
-STEM graduate students
+STEM [graduate students](https://www.yu.edu/katz/clubs)
+
 • Winner, Resilient Africa Network Innovation Grant | 2016: E-musawo telemedicine platform
-• Selected Presenter, OEGlobal 2026 Conference | Massachusetts Institute of Technology, Cambridge, MA
+
+• [Selected Presenter](https://sched.co/2QUXj), OEGlobal 2026 Conference | Massachusetts Institute of Technology, Cambridge, MA
+
 • Selected Presenter, State University of New York AI Industry Showcase | Stony Brook University, 2026: showcased AXAM's
 offline retrieval-augmented generation system
+
 • Outstanding Impact in Science and Technology Award | Yeshiva University Katz School Symposium on Science, Technology
-and Health, 2026: for AXAM
+and Health, 2026: [for AXAM](https://www.yu.edu/news/katz/symposium-research-highlights-student-innovation-ai-healthcare-and-technology)
