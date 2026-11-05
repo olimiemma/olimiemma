@@ -66,8 +66,18 @@ I also do the hard part most people skip, quantized on-device inference that run
 
 **AI-assisted development:** Claude Code, Codex, Mistral(vibe), GeminiCLI, Cursor, AntiGravity
 
-## Recognition
+## Press & Recognition
 - **MIT Documentaries about me: Featured by the Massachusetts Institute of Technology**, not once but in multiple documentaries about my work and open learning: [The Courage to Be Open](https://www.youtube.com/watch?v=RkhSkE89KJ0) · [latest feature](https://www.youtube.com/watch?v=Bjr62PO1WO4). Also a podcast co-host for MIT OpenCourseWare.
+- **MIT Articles about me: Featured by the Massachusetts Institute of Technology, repeatedly:**
+- [A whole new world of learning via MIT OpenCourseWare](https://news.mit.edu/2022/new-world-learning-mit-ocw-emmanuel-kasigazi-1107) (MIT News, 2022)
+- [How free online courses from MIT can "transform the future of the world"](https://news.mit.edu/2024/how-online-mit-courses-can-transform-future-world-0312) (MIT News, 2024)
+- [Podcast highlights how anyone can benefit from MIT's open education resources](https://openlearning.mit.edu/news/podcast-highlights-how-anyone-world-can-benefit-mits-open-education-resources) (MIT Open Learning, 2024)
+- Featured learner, [MIT OpenCourseWare 25th Anniversary](https://impact-openlearning.mit.edu/25-years-of-mit-opencourseware)
+- Documentary: [The Courage to Be Open](https://youtu.be/RkhSkE89KJ0)
+- Co-creator and host, [MIT OpenCourseWare "Open Learners" podcast](https://learn.mit.edu/podcast/14155/podcast_episode/16214/introducing-the-open-learners-podcast) (6M+ listeners)
+
+## Recognition
+
 - **National Science Foundation I-Corps Fellow** | 2025: Selected for the federal government's flagship [commercialization program](https://www.yu.edu/news/katz/student-entrepreneurs-expand-access-quality-education-offline-ai-platform)
 
 - **President, Katz African Students Association, Yeshiva University** | 2025-26: Led a 7-member executive team serving 1,700+ STEM [graduate students](https://www.yu.edu/katz/clubs)
