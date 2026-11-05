@@ -74,7 +74,9 @@ I also do the hard part most people skip, quantized on-device inference that run
 - [Podcast highlights how anyone can benefit from MIT's open education resources](https://openlearning.mit.edu/news/podcast-highlights-how-anyone-world-can-benefit-mits-open-education-resources) (MIT Open Learning, 2024)
 - Featured learner, [MIT OpenCourseWare 25th Anniversary](https://impact-openlearning.mit.edu/25-years-of-mit-opencourseware)
 - Documentary: [The Courage to Be Open](https://youtu.be/RkhSkE89KJ0)
-- Co-creator and host, [MIT OpenCourseWare "Open Learners" podcast](https://learn.mit.edu/podcast/14155/podcast_episode/16214/introducing-the-open-learners-podcast) (6M+ listeners)
+- Co-creator and host/ Introducing the Open Learners Podcast  [MIT OpenCourseWare "Open Learners" podcast](https://learn.mit.edu/podcast/14155/podcast_episode/16214/introducing-the-open-learners-podcast) (6M+ listeners)
+- [Introducing the Open Learners Podcast](https://www.youtube.com/watch?v=jY2w9Ipthpg&list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo&index=12) (MIT OpenCourseWare)
+- [Open Learners podcast on the MIT OpenCourseWare channel](https://www.youtube.com/@mitocw/podcasts)
 
 ## Recognition
 
