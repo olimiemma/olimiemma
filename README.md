@@ -1,6 +1,6 @@
 <h1 align="center">Emmanuel Olimi Kasigazi</h1>
 <p align="center"><b>Data & LLM Engineer</b> · New York</p>
-<p align="center">I build data pipelines and AI applications, from stakeholder requirements to delivery.</p>
+<p align="center">I build data pipelines and AI/LLM/RAG applications, from stakeholder requirements to delivery.</p>
 <p align="center">
   <a href="https://www.olimiemma.com/">Website</a>·
   <a href="https://www.linkedin.com/in/olimiemma/">LinkedIn</a> ·
