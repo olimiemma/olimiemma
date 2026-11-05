@@ -70,7 +70,7 @@ I also do the hard part most people skip, quantized on-device inference that run
 
 - **National Science Foundation I-Corps Fellow** | 2025: Selected for the federal government's flagship [commercialization program](https://www.yu.edu/news/katz/student-entrepreneurs-expand-access-quality-education-offline-ai-platform)
 
-- **Featured by the Massachusetts Institute of Technology**, not once but in multiple documentaries about my work and open learning: [The Courage to Be Open](https://www.youtube.com/watch?v=RkhSkE89KJ0) · [latest feature](https://www.youtube.com/watch?v=Bjr62PO1WO4). Also a podcast co-host for MIT OpenCourseWare.
+- **MIT Documentaries about me: Featured by the Massachusetts Institute of Technology**, not once but in multiple documentaries about my work and open learning: [The Courage to Be Open](https://www.youtube.com/watch?v=RkhSkE89KJ0) · [latest feature](https://www.youtube.com/watch?v=Bjr62PO1WO4). Also a podcast co-host for MIT OpenCourseWare.
 
 - **President, Katz African Students Association, Yeshiva University** | 2025-26: Led a 7-member executive team serving 1,700+ STEM [graduate students](https://www.yu.edu/katz/clubs)
 
